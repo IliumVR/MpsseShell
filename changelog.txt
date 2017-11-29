@@ -1,0 +1,6 @@
+MPSSE Shell Changelog
+=====================
+
+v1.0
+
+	- Initial release
